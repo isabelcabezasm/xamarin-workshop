@@ -12,8 +12,11 @@ Si eres un alumno de una de las universidades / institutos en los que hemos lanz
 3) Ejecuta, haz una captura de pantalla de la aplicación y otra enseñando la forma en la que te has añadido
 
 4) Envianos las capturas de pantalla a:
+
 esmsdn@microsoft.com
+
       Y dinos si prefieres TAZA o CAMISETA (+talla)
+      
       + nombre, instituto y curso
       
       
